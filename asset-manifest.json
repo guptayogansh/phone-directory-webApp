@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phone-directory-webApp/static/css/main.08b72d58.chunk.css",
+    "main.js": "/phone-directory-webApp/static/js/main.d92046b4.chunk.js",
+    "main.js.map": "/phone-directory-webApp/static/js/main.d92046b4.chunk.js.map",
+    "runtime~main.js": "/phone-directory-webApp/static/js/runtime~main.c18f42e0.js",
+    "runtime~main.js.map": "/phone-directory-webApp/static/js/runtime~main.c18f42e0.js.map",
+    "static/js/2.99b8bdcb.chunk.js": "/phone-directory-webApp/static/js/2.99b8bdcb.chunk.js",
+    "static/js/2.99b8bdcb.chunk.js.map": "/phone-directory-webApp/static/js/2.99b8bdcb.chunk.js.map",
+    "index.html": "/phone-directory-webApp/index.html",
+    "precache-manifest.0926e69f2b6ea1a0fea5262f4e758232.js": "/phone-directory-webApp/precache-manifest.0926e69f2b6ea1a0fea5262f4e758232.js",
+    "service-worker.js": "/phone-directory-webApp/service-worker.js",
+    "static/css/main.08b72d58.chunk.css.map": "/phone-directory-webApp/static/css/main.08b72d58.chunk.css.map"
+  }
+}
