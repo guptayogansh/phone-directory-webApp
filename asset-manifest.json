@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.148d92dd.chunk.css",
-    "main.js": "./static/js/main.7e22f010.chunk.js",
-    "main.js.map": "./static/js/main.7e22f010.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.e76a3190.js",
-    "runtime~main.js.map": "./static/js/runtime~main.e76a3190.js.map",
-    "static/js/2.efcc79d9.chunk.js": "./static/js/2.efcc79d9.chunk.js",
-    "static/js/2.efcc79d9.chunk.js.map": "./static/js/2.efcc79d9.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.80aee5dd800ada96149d4f05bdfb988a.js": "./precache-manifest.80aee5dd800ada96149d4f05bdfb988a.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.148d92dd.chunk.css.map": "./static/css/main.148d92dd.chunk.css.map"
+    "main.css": "/phone-directory-webApp/static/css/main.148d92dd.chunk.css",
+    "main.js": "/phone-directory-webApp/static/js/main.85a26a16.chunk.js",
+    "main.js.map": "/phone-directory-webApp/static/js/main.85a26a16.chunk.js.map",
+    "runtime~main.js": "/phone-directory-webApp/static/js/runtime~main.fcc83997.js",
+    "runtime~main.js.map": "/phone-directory-webApp/static/js/runtime~main.fcc83997.js.map",
+    "static/js/2.efcc79d9.chunk.js": "/phone-directory-webApp/static/js/2.efcc79d9.chunk.js",
+    "static/js/2.efcc79d9.chunk.js.map": "/phone-directory-webApp/static/js/2.efcc79d9.chunk.js.map",
+    "index.html": "/phone-directory-webApp/index.html",
+    "precache-manifest.c90ef5ee16b640543ea8302f7087bd91.js": "/phone-directory-webApp/precache-manifest.c90ef5ee16b640543ea8302f7087bd91.js",
+    "service-worker.js": "/phone-directory-webApp/service-worker.js",
+    "static/css/main.148d92dd.chunk.css.map": "/phone-directory-webApp/static/css/main.148d92dd.chunk.css.map"
   }
 }
